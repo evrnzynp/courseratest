@@ -1,0 +1,26 @@
+img{
+    display:none;
+  }
+  header{
+      background-color:hsl(0deg 0% 70%); 
+  }
+  h1{
+    font-variant:small-caps;
+    text-align:center;
+    color:#ffffff ;
+  }
+  a{
+      display: inline;
+      background-color: hsl(0deg 0% 77%);
+    color:#000000 ;
+  }
+  h2{
+      color: hsl(241deg 95% 25%);
+      font-variant:small-caps;
+    }
+  .right{
+    height: auto;
+    width: auto;
+      background-color: hsl(0deg 0% 50%);
+  }
+ 
